@@ -15,4 +15,8 @@ Relatório para auxiliar no processo de geração de Impostos de Serviço (ISS, 
 #### GD2excel
 Biblioteca muito simples para auxiliar na geração de relatórios em excel do Marinaldo de Jesus.
 
-
+#### Functions
+Funções auxiliares. 
+    UsrRetNome => Retorna o nome do usuário no sistema
+    zCriaPar => Cria parâmetros no sistema via código. (Atilio)
+    zPutSX1 => Cria Pergunte, para a versão Protheus12 que retirou o PutSX1. (Atilio)
